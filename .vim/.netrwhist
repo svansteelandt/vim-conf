@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/sylvain/lcd/lcddisplay/33.96.8010-DEV/inc'
+let g:netrw_dirhist_2='/home/sylvain/lcd/lcddisplay/GUI'
+let g:netrw_dirhist_3='/home/sylvain/lcd/lcddisplay/33.96.8010-DEV'
+let g:netrw_dirhist_4='/home/sylvain/Documents/gtk_template/src'
+let g:netrw_dirhist_5='/home/sylvain/lcd/lcddisplay/GUI/src'
+let g:netrw_dirhist_6='/home/sylvain/lcd/lcddisplay/led-app'
+let g:netrw_dirhist_7='/home/sylvain/lcd/lcddisplay/33.96.8010-ORIGINAL'
+let g:netrw_dirhist_8='/home/sylvain/lcd/project-televic/GUI/src'
+let g:netrw_dirhist_9='/home/sylvain/Documents/newtec/ptxdist/config'
